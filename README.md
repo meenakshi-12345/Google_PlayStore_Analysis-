@@ -92,6 +92,7 @@ Apps updated recently perform better in review counts.
 Paid apps receive higher ratings, likely due to niche user expectations.
 
 📁 Repository Structure
+
 ├── data/
 │   └── Google_PlayStore.csv
 ├── notebooks/
