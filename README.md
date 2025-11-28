@@ -122,7 +122,9 @@ Compare Google Play Store trends with Apple App Store data.
 📧 Contact
 
 Author: Meenakshi Rajpurohit
+
 Email: imeenakshii28@gmail.com
-GitHub: https://github.com/your- meenakshi-1234
+
+GitHub: https://github.com/meenakshi-12345
 
 Feel free to reach out for collaborations, suggestions, or discussions!
